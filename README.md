@@ -118,6 +118,15 @@ optimize_model!(m, obj; time_limit=1200, mip_gap=0.005)
 ## References
 
 ```bibtex
+@article{singh2026exergy,
+  title={An Exergy-Based Approach for Finding the Composition of Working Fluids in Heat Pump Configurations},
+  author={Singh, Priyanshu and Agrawal, Rakesh},
+  journal={},
+  pages={},
+  year={in prep},
+  publisher={}
+}
+
 @article{singh2026internal,
   title={Internal cascade heat pumps for high temperature lift applications},
   author={Singh, Priyanshu and Nogaja, Akash Sanjay and Agrawal, Rakesh},
@@ -166,4 +175,8 @@ optimize_model!(m, obj; time_limit=1200, mip_gap=0.005)
   year={2021},
   publisher={ACS Publications}
 }
+
+
+
+
 ```
